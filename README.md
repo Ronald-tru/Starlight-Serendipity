@@ -17,7 +17,7 @@ Python
 
 ## How to run:
 
-Download latest build from https://github.com/Ronald-tru/Starlight-Serendipity/releases/tag/Game
+Download latest build from [releases](https://github.com/Ronald-tru/Starlight-Serendipity/releases)
 
 Run the .exe file
 
