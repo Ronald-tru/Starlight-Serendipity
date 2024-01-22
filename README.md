@@ -1,4 +1,4 @@
-# Starlight-Serendipity
+# Starlight Serendipity
 This is a visual novel made using only pygame.
 
 ## Credits:
