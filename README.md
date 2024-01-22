@@ -11,7 +11,7 @@ PyGame
 Python
 
 How to run:
-Download latest build from releases
+Download latest build from [releases]([url](https://github.com/Ronald-tru/Starlight-Serendipity/releases/tag/Game)https://github.com/Ronald-tru/Starlight-Serendipity/releases/tag/Game)
 Unzip the zip file
 Run the .exe file
 Have fun
