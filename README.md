@@ -1,13 +1,13 @@
 # Starlight-Serendipity
 This is a visual novel made using only pygame.
 
-Credits:
+## Credits:
 
 Sutemo - Male & Female character templates
 
 Noraneko - Some of the backgrounds
 
-Prerequisites:
+## Prerequisites:
 
 Windows
 
@@ -15,11 +15,9 @@ PyGame
 
 Python
 
-How to run:
+## How to run:
 
-Download latest build from [releases]([url](https://github.com/Ronald-tru/Starlight-Serendipity/releases/tag/Game)https://github.com/Ronald-tru/Starlight-Serendipity/releases/tag/Game)
-
-Unzip the zip file
+Download latest build from https://github.com/Ronald-tru/Starlight-Serendipity/releases/tag/Game
 
 Run the .exe file
 
